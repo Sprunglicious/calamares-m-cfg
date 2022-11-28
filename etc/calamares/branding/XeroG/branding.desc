@@ -5,7 +5,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  xerolinux
+componentName:  XeroG
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
@@ -73,17 +73,16 @@ sidebar: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         XeroLinux
-    shortProductName:    XeroLinux
+    productName:         XeroG
+    shortProductName:    XeroG
     version:             2021.08
     shortVersion:        2021.08.12
-    versionedName:       XeroLinux
-    shortVersionedName:  XeroLinux
-    bootloaderEntryName: XeroLinux
-    productUrl:          https://xerolinux.online/
-    supportUrl:          https://xerolinux.online/
-#   knownIssuesUrl:      https://techxero.github.io/projects/#xero-linux
-    releaseNotesUrl:     https://xerolinux.online/july-2021-build-release-notes/
+    versionedName:       XeroG
+    shortVersionedName:  XeroG
+    bootloaderEntryName: XeroG
+    productUrl:          https://xerolinux.xyz/
+    supportUrl:          https://xerolinux.xyz/
+    releaseNotesUrl:     https://forum.xerolinux.xyz/thread-4.html
 
 # log feature
 
