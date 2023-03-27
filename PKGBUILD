@@ -1,7 +1,7 @@
 # Maintainer: DarkXero <info@techxero.com>
 pkgname=calamares-g-config
 _destname1="/etc"
-pkgver=23.01
+pkgver=23.04
 pkgrel=1
 pkgdesc="calamares Config for XeroLinux"
 arch=('any')
